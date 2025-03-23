@@ -1,0 +1,46 @@
+[
+  {
+    "update_dialog": {
+      "title": "نسخه جدید رسید 😍",
+      "message": "برای استفاده از اپلیکیشن ، لازمه که نسخه جدید رو نصب کنی",
+      "buttons": [
+        {
+          "text": "بروزرسانی از بازار",
+          "link": "https://cafebazaar.ir/app/{package_name}",
+          "error": "احتمالا بازار رو نصب نداری",
+          "visible": true
+        }
+      ]
+    },
+    "new_version_codes": [
+      {
+        "package_name": "com.takin.weather",
+        "version_code": 3
+      }
+    ],
+    "source": "cafebazaar",
+    "forcible": false
+  },
+  {
+    "update_dialog": {
+      "title": "نسخه جدید رسید 😍",
+      "message": "برای استفاده از اپلیکیشن ، لازمه که نسخه جدید رو نصب کنی",
+      "buttons": [
+        {
+          "text": "بروزرسانی از مایکت",
+          "link": "https://myket.ir/app/{package_name}",
+          "error": "احتمالا مایکت رو نصب نداری",
+          "visible": true
+        }
+      ]
+    },
+    "new_version_codes": [
+      {
+        "package_name": "com.takin.weather",
+        "version_code": 3
+      }
+    ],
+    "source": "myket",
+    "forcible": false
+  }
+]
