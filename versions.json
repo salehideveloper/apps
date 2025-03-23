@@ -19,7 +19,7 @@
       }
     ],
     "source": "cafebazaar",
-    "forcible": false
+    "forcible": true
   },
   {
     "update_dialog": {
@@ -41,6 +41,6 @@
       }
     ],
     "source": "myket",
-    "forcible": false
+    "forcible": true
   }
 ]
