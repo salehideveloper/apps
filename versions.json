@@ -6,7 +6,7 @@
       "buttons": [
         {
           "text": "بروزرسانی از بازار",
-          "link": "https://cafebazaar.ir/app/{package_name}",
+          "link": "bazaar://details/modal?id={package_name}",
           "error": "احتمالا بازار رو نصب نداری",
           "visible": true
         }
