@@ -1,13 +1,13 @@
 [
   {
-    "image": "https://raw.githubusercontent.com/salehideveloper/apps/refs/heads/main/in_weather_app_banner.gif",
-    "link": "https://my.itmizban.com/aff.php?aff=23",
+    "image": "https://raw.githubusercontent.com/salehideveloper/apps/refs/heads/main/in_weather_app_banner.jpg",
+    "link": "bazaar://details/modal?id=com.takin.maropeleh",
     "visible": true,
     "source": "cafebazaar"
   },
   {
-    "image": "https://raw.githubusercontent.com/salehideveloper/apps/refs/heads/main/in_weather_app_banner.gif",
-    "link": "https://my.itmizban.com/aff.php?aff=23",
+    "image": "https://raw.githubusercontent.com/salehideveloper/apps/refs/heads/main/in_weather_app_banner.jpg",
+    "link": "myket://download/com.takin.maropeleh",
     "visible": true,
     "source": "myket"
   }
